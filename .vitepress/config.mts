@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/vitepress-rangang-blog/',
+  // base: '/vitepress-rangang-blog/',
   title: "前端阿刚",
   description: "A VitePress Site",
   themeConfig: {
